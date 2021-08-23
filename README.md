@@ -299,15 +299,25 @@ python detect.py --save-txt --source 自己数据集的文件目录 --weights ./
 
 修改 `./data/gen_data/merge_data.py` 中的自己数据集标签所在的路径，执行这个python脚本，会进行 `人体(person)` 类型的合并 
 
+
+# 6. 通过萤石云开放平台直播实现实时检测
+如果你第一次使用萤石开放平台开发者服务，请参照官方文档：http://open.ys7.com/doc/zh/
+以及视频接入指南：https://open.ys7.com/guide.html
+
+在绑定好你的视频设备以后，进入萤石云开放平台控制台：https://open.ys7.com/console/home.html
+
+点击我的资源--设备列表--直播地址
+
+![](./doc/yingshiyun1.png)
+![](./doc/yingshiyun2.png)
+
+复制直播地址，在pycham控制台终端输入
+ python detect.py --source ‘ ’  
+引号中加入你的直播地址
+
+![](./doc/yingshiyun3.png)
+
+
 ---
 
 **如果帮到您请给个 star ✨✨✨，您的 star 是我最大的鼓励！**
-
-**如果能帮到您的项目快速落地，可以 buy me a coffee ☕**
-
-![](./doc/BuyMeACoffee.jpg)
-
-
-也可以加我的 WeChat 和我一起探讨更多的可能！
-
-![](./doc/WeChat.jpg)
