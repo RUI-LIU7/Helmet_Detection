@@ -312,7 +312,9 @@ python detect.py --save-txt --source 自己数据集的文件目录 --weights ./
 ![](./doc/yingshiyun2.png)
 
 复制直播地址，在pycham控制台终端输入
+```shell script
  python detect.py --source ‘ ’  
+```
 引号中加入你的直播地址
 
 ![](./doc/yingshiyun3.png)
