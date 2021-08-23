@@ -6,11 +6,6 @@
 
 该项目是使用 `YOLOv5 v2.x` 的程序来训练在智能工地安全领域中头盔目标检测的应用
 
-## 可视化界面演示（2021.3 上新！）：
-:boom::boom::boom:新增可视化界面上线啦！！！！来一波演示！！！:boom::boom::boom:
-使用文档: [如何使用可视化工具](./doc/Visualize_Tool_Tutorial.md)
-
-![](./doc/visualize_tool_gif_v2_1.gif)
 
 ## 纯图片再来一波演示！
 
