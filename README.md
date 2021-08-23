@@ -1,6 +1,4 @@
-# Smart_Construction
-
-[![](https://img.shields.io/github/stars/PeterH0323/Smart_Construction.svg)](https://github.com/PeterH0323/Smart_Construction/stargazers)
+# Helmet_Detection
 
 **如果帮到您请给个 star :star2::star2::star2:，您的 star:star2: 是我最大的鼓励！**
 
